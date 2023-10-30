@@ -32,7 +32,7 @@ namespace Tyuiu.KomanichRM.Sprint4.Task0.V19
             Console.WriteLine("Исходный массив:");
             for (int i = 0; i <= numsArray.Length - 1; i++)
             {
-                Console.WriteLine(numsArray[i]);
+                Console.WriteLine(numsArray[i] + "\t");
             }
 
             Console.WriteLine("***************************************************************************");

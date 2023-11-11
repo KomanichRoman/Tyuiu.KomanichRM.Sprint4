@@ -16,8 +16,8 @@ namespace Tyuiu.KomanichRM.Sprint4.Task4.V20
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы. (статический вывод)                            *");
-            Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #7                                                              *");
+            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Вариант #20                                                              *");
             Console.WriteLine("* Выполнил: Команич Роман Маркович | АСОиУб-23-3                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");

@@ -11,6 +11,7 @@ namespace Tyuiu.KomanichRM.Sprint4.Task7.V15.Test
         public void ValidCalculate()
         {
             DataService ds = new DataService();
+            // Task7
             int rows = 4;
             int colums = 2;
             int[,] mtrx = new int[rows, colums];
